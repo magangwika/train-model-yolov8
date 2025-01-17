@@ -1,0 +1,13 @@
+/.venv
+/no-boots
+/resources
+/runs
+/test
+/train
+/valid
+*.pt
+*.log
+*.har
+*.hef
+*.onnx
+*.yaml

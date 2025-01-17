@@ -1,0 +1,1 @@
+hailomz compile yolov8l --ckpt=best.onnx --hw-arch hailo8l --calib-path train/images --classes 5 --performance

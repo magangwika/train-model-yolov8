@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names: ['NO-Safety Boots', 'NO-Safety Helmet', 'NO-Safety Vest', 'Person', 'Safety Boots', 'Safety Helmet', 'Safety Vest']
+
+roboflow:
+  workspace: zols
+  project: construction-site-safety-3unri
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/zols/construction-site-safety-3unri/dataset/2
